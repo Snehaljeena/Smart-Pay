@@ -18,3 +18,15 @@ Industrial Standard Used:
 - Clean code Practice
 
 
+## Program Output
+
+### Output 1
+![Output1](src/images/output1.png)
+
+### Output 2
+![Output2](src/images/output2.png)
+
+### Output 3
+![Output3](src/images/output3.png)
+
+
